@@ -1,0 +1,10 @@
+E:\phily\AddressBook\bin\Debug\AddressBook.exe.config
+E:\phily\AddressBook\bin\Debug\AddressBook.exe
+E:\phily\AddressBook\bin\Debug\AddressBook.pdb
+E:\phily\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+E:\phily\AddressBook\obj\Debug\AddressBook.Form1.resources
+E:\phily\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+E:\phily\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+E:\phily\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+E:\phily\AddressBook\obj\Debug\AddressBook.exe
+E:\phily\AddressBook\obj\Debug\AddressBook.pdb
