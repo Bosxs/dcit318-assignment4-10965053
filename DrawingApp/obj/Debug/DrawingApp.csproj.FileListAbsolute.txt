@@ -1,0 +1,30 @@
+E:\phily\dcit318-assignment4-10965053\DrawingApp\bin\Debug\DrawingApp.exe.config
+E:\phily\dcit318-assignment4-10965053\DrawingApp\bin\Debug\DrawingApp.exe
+E:\phily\dcit318-assignment4-10965053\DrawingApp\bin\Debug\DrawingApp.pdb
+E:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+E:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.Form1.resources
+E:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+E:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+E:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+E:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.exe
+E:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.pdb
+F:\phily\dcit318-assignment4-10965053\DrawingApp\bin\Debug\DrawingApp.exe.config
+F:\phily\dcit318-assignment4-10965053\DrawingApp\bin\Debug\DrawingApp.exe
+F:\phily\dcit318-assignment4-10965053\DrawingApp\bin\Debug\DrawingApp.pdb
+F:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+F:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.Form1.resources
+F:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+F:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+F:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+F:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.exe
+F:\phily\dcit318-assignment4-10965053\DrawingApp\obj\Debug\DrawingApp.pdb
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\obj\Debug\DrawingApp.Form1.resources
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\GALLY sismondi\Desktop\Philemon's Work\DrawingApp\obj\Debug\DrawingApp.pdb
